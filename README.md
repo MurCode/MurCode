@@ -1,19 +1,13 @@
-👋 Hi, I’m @MurCode 
+👋 Hi I'm @MurCode and I'm just learning how to code.
 
-👀 I’m interested in HTML, CSS, JS,
+👀 I’m interested in frontend development.
 
-🌱 I’m currently learning typesetter.     
+🌱 i'm at the beginning of the basics 1% 
   
-💞️ I’m looking to collaborate on avelboroda@gmail.com
+💞️ If you have any advice for a beginner programmer, please post it here avelboroda@gmail.com
 
-📫 How to reach me avelboroda@gmail.com
+📫 and yes it's the same mail again avelboroda@gmail.com
 <!---
 MurCode/MurCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I’m @MurCode
-👀 I’m interested in HTML, CSS, JS,
-🌱 I’m currently learning typesetter.
-💞️ I’m looking to collaborate on avelboroda@gmail.rom.
-📫 How to reach me avelboroda@gmail.rom.
-
